@@ -1,0 +1,10 @@
+site_name: 'Vacation Check'
+site_description: 'Documentation for Vacation Check application'
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API Reference: api.md
+
+plugins:
+  - techdocs-core
