@@ -4,6 +4,7 @@ metadata:
   name: vacation_check
   annotations:
     github.com/project-slug: reddragonway/vacation_check
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
